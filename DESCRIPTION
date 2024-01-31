@@ -2,12 +2,12 @@ Package: SNSFdatasets
 Type: Package
 Title: Download Datasets from the Swiss National Science Foundation
         (SNF, FNS, SNSF)
-Version: 0.1.0
-Date: 2023-09-22
+Version: 0.1.1
+Date: 2024-01-31
 Authors@R: c(person(given = "Silvia", family = "Martens",
                     role  = c("ctb"),
                     email = "sm@silviamartens.net",
-		    comment = c(ORCID = "0009-0001-7554-3195")),
+                    comment = c(ORCID = "0009-0001-7554-3195")),
              person(given = "Enrico", family = "Schumann",
                     role  = c("aut", "cre"),
                     email = "es@enricoschumann.net",
@@ -26,9 +26,9 @@ URL: http://enricoschumann.net/R/packages/SNSFdatasets/ ,
 LazyLoad: yes
 ByteCompile: yes
 NeedsCompilation: no
-Packaged: 2023-09-22 14:34:59 UTC; es19
+Packaged: 2024-01-31 17:24:19 UTC; es19
 Author: Silvia Martens [ctb] (<https://orcid.org/0009-0001-7554-3195>),
   Enrico Schumann [aut, cre] (<https://orcid.org/0000-0001-7601-6576>)
 Maintainer: Enrico Schumann <es@enricoschumann.net>
 Repository: CRAN
-Date/Publication: 2023-09-23 15:10:02 UTC
+Date/Publication: 2024-01-31 17:40:02 UTC
